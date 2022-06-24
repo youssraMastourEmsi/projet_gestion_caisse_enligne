@@ -1,0 +1,18 @@
+[
+    {
+        "name": "coca",
+        "description": "description description description description description description description description description description description ",
+        "price": 6,
+        "Qte": 20,
+        "image": "http://atlas-content-cdn.pixelsquid.com/stock-images/coke-soda-q13q2x2-600.jpg",
+        "cathegorie": "boisson"
+    },
+    {
+        "name": "sandwiche charcuterie",
+        "description": "description description description description description description description description description description description ",
+        "price": 19,
+        "Qte": 32,
+        "image": "https://www.kindpng.com/picc/m/88-884391_sandwich-png-sandwich-sandwich-images-hd-png-transparent.png",
+        "cathegorie": "sandwich"
+    }
+]
